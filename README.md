@@ -1,5 +1,4 @@
-# 💫 About Me:
-## 👋 Hey, I'm Adith<br><br>🎓 Computer Science student from Kerala, India<br><br>🌱 Learning one concept at a time, building one project at a time<br><br>💻 Interested in Full-Stack Development, Open Source, AI, and Problem Solving<br><br>🚀 Working toward GSoC, strong internships, and a top GATE rank<br><br>🤝 Open to collaborations, hackathons, and exciting project ideas<br><br>📚 Outside tech, you'll usually find me reading, exploring philosophy, or planning my next goal<br><br>⚡ Fun fact: I believe great software is built with equal parts logic and curiosity.
+## 👋 Heyya It's me Adith<br><br>🎓 Computer Science student from Kerala, India<br><br>🌱 Learning one concept at a time, building one project at a time<br><br>💻 Interested in Full-Stack Development, Open Source, AI, and Problem Solving<br><br>🚀 Working toward GSoC, strong internships, and a top GATE rank<br><br>🤝 Open to collaborations, hackathons, and exciting project ideas<br><br>📚 Outside tech, you'll usually find me reading, exploring philosophy, or planning my next goal<br><br>⚡ Fun fact: I believe great software is built with equal parts logic and curiosity.
 
 
 ## 🌐 Socials:
